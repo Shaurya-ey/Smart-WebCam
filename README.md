@@ -36,8 +36,27 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 
 
 ## Case And Assembly
+#### 1) Inner Casing Assembly
+<p align="center">
+<img width="400" height="300" alt="Inner case asse  2" src="https://github.com/user-attachments/assets/8246c20d-1996-46be-86e4-06468056e0ce" />
+<img width="400" height="560" alt="Inner case asse  1" src="https://github.com/user-attachments/assets/30aea4fc-56c7-40a7-8cbc-c418ea244db7" />
+</p>
 
+#### 2) Outer Casing Assembly
+<p align="center">
+<img width="400" height="300" alt="Full case asse  2" src="https://github.com/user-attachments/assets/c74aa964-8b12-4fca-b884-99f410efaaee" />
+<img width="400" height="506" alt="Full case asse" src="https://github.com/user-attachments/assets/7f692820-55c8-453b-af2d-18bbbb153295" />
+</p>
 
+#### 3) Stands
+<p align="center">
+<img width="450" height="398" alt="stand 1" src="https://github.com/user-attachments/assets/267dcec5-0238-4716-8804-b60023fc024b" />
+<img width="400" height="350" alt="stand 2" src="https://github.com/user-attachments/assets/8a0c87cb-2e76-4343-83c7-c7ab2e56a590" />
+<img width="592" height="420" alt="stand 1 5" src="https://github.com/user-attachments/assets/7e92645a-3cc2-4c84-84b7-6772aa0de636" />
+</p>
+
+#### 4) Overall assembly
+<img width="690" height="570" alt="Full with stand" src="https://github.com/user-attachments/assets/5c869896-e429-42b9-8200-be4686e961a6" />
 
 
 # 3. BOM (Bill Of Materials)
@@ -58,5 +77,5 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 | 64GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 15.16 |  |
 | Raspberry Pi Zero | MCU | 1 | 18.80 |  |
 | Raspberry Pi Camera Module 3 | Camera | 1 | 32.31 |  |
-
+| Spring | 1 | 0.17 |  |
 ###  Total Cost: **$82.34**
