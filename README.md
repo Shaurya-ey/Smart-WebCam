@@ -50,7 +50,7 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 
 #### 3) Stands
 <p align="center">
-<img width="450" height="398" alt="stand 1" src="https://github.com/user-attachments/assets/267dcec5-0238-4716-8804-b60023fc024b" />
+<img width="450" height="350" alt="stand 1" src="https://github.com/user-attachments/assets/267dcec5-0238-4716-8804-b60023fc024b" />
 <img width="400" height="350" alt="stand 2" src="https://github.com/user-attachments/assets/8a0c87cb-2e76-4343-83c7-c7ab2e56a590" />
 <img width="592" height="420" alt="stand 1 5" src="https://github.com/user-attachments/assets/7e92645a-3cc2-4c84-84b7-6772aa0de636" />
 </p>
