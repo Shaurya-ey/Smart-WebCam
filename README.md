@@ -65,18 +65,18 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 
 | Item | Description | Quantity | Total Price (USD) | URL |
 |------|------------|----------|------------------|-----|
-| TRRS to TRS splitter | for mic | 2 | 2.15 |  |
-| Mic | for audio input | 1 | 2.21 |  |
-| Sound card | For audio output | 1 | 1.14 |  |
-| OTG Cable | connecting sound card and raspi usb port | 1 | 0.90 |  |
-| 5V 3A Power Supply | For powering raspi | 1 | 2.53 |  |
-| CAD Models | Casings + Stands | 1 | 2.00 |  |
-| 0.5W 28mm 8Ω Trumpet Speaker | Speaker | 1 | 0.30 |  |
-| PAM8403 | Audio Amplifier | 1 | 0.66 |  |
-| Heatsink | Heatsink for raspberry pi zero | 1 | 0.19 |  |
-| INMP441 MEMS Microphone Module | Microphone | 1 | 1.99 |  |
-| 64GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 15.16 |  |
-| Raspberry Pi Zero | MCU | 1 | 18.80 |  |
-| Raspberry Pi Camera Module 3 | Camera | 1 | 32.31 |  |
-| Spring | 1 | 0.17 |  |
+| TRRS to TRS splitter | for mic | 2 | 2.15 | https://www.amazon.in/gp/product/B08GCZQT7D/ref=ox_sc_act_title_1?smid=A1WYWER0W24N8S&th=1 |
+| Mic | for audio input | 1 | 2.21 | https://www.amazon.in/GWINGS-Microphone-Interviews-Compatibility-Smartphones/dp/B0GD2J1PQR/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764%3Aamzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&crid=1N2CLQORCCUTE&cv_ct_cx=wire%2Bmic&keywords=wire%2Bmic&pd_rd_i=B0GD2J1PQR&pd_rd_r=f3f9a633-aa48-4a49-b863-7474a3711b82&pd_rd_w=jLIB3&pd_rd_wg=RTxYd&pf_rd_p=7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&pf_rd_r=VK27QJMY2WY1NZKY25GW&qid=1775796535&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=wiremic%2Caps%2C523&sr=1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=AD4x5wIcdW&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1 |
+| Sound card | For audio output | 1 | 1.14 | https://robu.in/product/5-1-channel-usb-sound-card-for-raspberry-pi-and-computers/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcaLEZ4BZxpNYTkApkTJ5lyC&gclid=CjwKCAjwnN3OBhA8EiwAfpTYehFyYkU7k9K_lXiWQS9rTXVuvbpnqzWhANsM9SaFnsCLTzoudtmhfhoCQh8QAvD_BwE#  |
+| OTG Cable | connecting sound card and raspi usb port | 1 | 0.90 | https://robu.in/product/raspberry-pi-official-micro-usb-b-male-to-usb-a-female-adapter/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWclaudwu_pQwdub36csqIhwJ&gclid=CjwKCAjwnN3OBhA8EiwAfpTYehPJNi8-d6U0nbLRpdmAPpEEAtipRpUZ3efJJcSvzETvX5xz-H3hqRoCWzoQAvD_BwE |
+| 5V 3A Power Supply | For powering raspi | 1 | 2.53 | https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-micro-usb-plug/ |
+| CAD Models | Casings + Stands | 1 | 2.00 | printing legion |
+| 0.5W 28mm 8Ω Trumpet Speaker | Speaker | 1 | 0.30 | https://robu.in/product/0-5w-8ohm-trumpet-speaker-diameter-28mm/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWdwdvSUFSJIl7gt4S3iz58C-&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3hejN1-d4zu4dOttRHCKA_VgE4x6-21bOFee4rh_wh22uVPcHH1gvgD8aAm9qEALw_wcB |
+| PAM8403 | Audio Amplifier | 1 | 0.66 | https://robu.in/product/smartelex-pam8403-stereo-mini-class-d-audio-amplifier/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWf9poBXKnJ1WvIqZjHOJnVNZ&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3heiZ63SWzzW7lcTJvHsz-yPUT-VRUdOtDFIUNyQFpS9vECSsSzwICY0aAmqrEALw_wcB |
+| Heatsink | Heatsink for raspberry pi zero | 1 | 0.19 | https://robu.in/product/aluminum-heatsink-for-raspberry-pi/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWcZqI0XjFPMAZcna_aHTQget&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9t07keo2cKPsQ2sHNPlL4Kzc7aBJWtGBFfTRRnoh8wZtnKaVIFmkLBoCJk4QAvD_BwE |
+| INMP441 MEMS Microphone Module | Microphone | 1 | 1.99 | https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/ |
+| 64GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 15.16 | https://robu.in/product/sandisk-micro-sdxc-ush-i-64gb-class-10-memory-card/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWfI6TyQoqFIKWHQ3CsAKn3xx&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9nRaFNv8kv4mhC7sfA0QjLIg37ZslTY7L2rg-O2y2Mosr0BnKcYjAxoC4NIQAvD_BwE |
+| Raspberry Pi Zero | MCU | 1 | 18.80 | https://robu.in/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWeEptP5f_L5n8AUY4wub-jWk&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9hsO1CfMZd7cHk8eWEVt7jpcR2A |
+| Raspberry Pi Camera Module 3 | Camera | 1 | 32.31 | https://robu.in/product/raspberry-pi-camera-module-3/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWeEptP5f_L5n8AUY4wub-jWk&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9mtpPPz7mnwDt1k8iu4PUEfTk90kvsR-zewei9DAk0jVvRrrsz_RShoCa8MQAvD_BwE |
+| Spring | 1 | 0.17 | https://robu.in/product/diy-kossel-delta-rostock-push-rod-spring-pack-of-2/ |
 ###  Total Cost: **$82.34**
