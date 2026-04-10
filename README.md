@@ -56,8 +56,9 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 </p>
 
 #### 4) Overall assembly
+<p align="center">
 <img width="690" height="570" alt="Full with stand" src="https://github.com/user-attachments/assets/5c869896-e429-42b9-8200-be4686e961a6" />
-
+</p>
 
 # 3. BOM (Bill Of Materials)
 ## Bill of Materials (BOM)
