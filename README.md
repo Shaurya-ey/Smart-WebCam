@@ -31,6 +31,7 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 
 # 2. Layouts
 ## Schematics
+<img width="982" height="645" alt="Schematics" src="https://github.com/user-attachments/assets/03a56006-9094-41dc-998d-ab71dd2e6b73" />
 
 
 
