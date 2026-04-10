@@ -1,5 +1,5 @@
 <h1 align="center">Smart WebCam</h1> 
-Custom Raspberry Pi webcam with mic input, made for my desk setup. Built this instead of buying one to understand how everything works under the hood.
+Custom Raspberry Pi webcam with mic input, made for my desk setup. Built this instead of buying one to understand how everything works.
 <p align="center">
 <img width="690" height="570" alt="Full with stand" src="https://github.com/user-attachments/assets/06e3ed7b-f4b7-403c-a329-607f621b21e4" />
 </p>
@@ -17,10 +17,10 @@ Custom Raspberry Pi webcam with mic input, made for my desk setup. Built this in
 - Compact Setup – Designed to sit on desk without taking much space
   
 ## What it is 
-Basically, it’s a homemade webcam system. The Raspberry Pi takes input from the camera and microphone and sends it to the computer, so it behaves like a normal webcam. Instead of plug-and-play hardware, this is more like a small computer doing the same job.
+Basically, it’s a homemade webcam system. The Raspberry Pi takes input from the camera and microphone and sends it to the computer, so it behaves like a normal webcam. Instead of plug-and-play hardware, this is more like a small computer.
 
 ## Why I Made This Project
-I wanted a webcam for my desk, but instead of buying one I thought why not just build it. It started simple but then I kept adding things and learning more in the process. Setting up things like mic input, Wi-Fi and getting everything to work together took some time, but that’s what made it interesting.
+I wanted a webcam for my desk, but instead of buying one I thought why not just build it. It started simple but then I kept adding things and learning more in the process. Setting up things like mic input, Wi-Fi and getting everything to work together took some time.
 
 ## How To Use
 - **Power:** on the Raspberry Pi and make sure it’s connected to Wi-Fi.
