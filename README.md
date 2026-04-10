@@ -26,3 +26,17 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 - **Power:** on the Raspberry Pi and make sure it’s connected to Wi-Fi.
 - **Run:** the main program on the Pi (this has to stay running).
 - **Connect:** it to your PC and select it as camera and microphone in your meeting app.
+
+---
+
+# 2. Layouts
+## Schematics
+
+
+
+## Case And Assembly
+
+
+
+
+# 3. BOM (Bill Of Materials)
