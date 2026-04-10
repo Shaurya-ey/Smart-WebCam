@@ -40,3 +40,22 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 
 
 # 3. BOM (Bill Of Materials)
+## Bill of Materials (BOM)
+
+| Item | Description | Quantity | Total Price (USD) | URL |
+|------|------------|----------|------------------|-----|
+| TRRS to TRS splitter | for mic | 2 | 2.15 |  |
+| Mic | for audio input | 1 | 2.21 |  |
+| Sound card | For audio output | 1 | 1.14 |  |
+| OTG Cable | connecting sound card and raspi usb port | 1 | 0.90 |  |
+| 5V 3A Power Supply | For powering raspi | 1 | 2.53 |  |
+| CAD Models | Casings + Stands | 1 | 2.00 |  |
+| 0.5W 28mm 8Ω Trumpet Speaker | Speaker | 1 | 0.30 |  |
+| PAM8403 | Audio Amplifier | 1 | 0.66 |  |
+| Heatsink | Heatsink for raspberry pi zero | 1 | 0.19 |  |
+| INMP441 MEMS Microphone Module | Microphone | 1 | 1.99 |  |
+| 64GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 15.16 |  |
+| Raspberry Pi Zero | MCU | 1 | 18.80 |  |
+| Raspberry Pi Camera Module 3 | Camera | 1 | 32.31 |  |
+
+###  Total Cost: **$82.34**
