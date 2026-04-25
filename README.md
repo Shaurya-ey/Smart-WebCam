@@ -75,8 +75,9 @@ I wanted a webcam for my desk, but instead of buying one I thought why not just 
 | PAM8403 | Audio Amplifier | 1 | 0.66 | https://robu.in/product/smartelex-pam8403-stereo-mini-class-d-audio-amplifier/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWf9poBXKnJ1WvIqZjHOJnVNZ&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3heiZ63SWzzW7lcTJvHsz-yPUT-VRUdOtDFIUNyQFpS9vECSsSzwICY0aAmqrEALw_wcB |
 | Heatsink | Heatsink for raspberry pi zero | 1 | 0.19 | https://robu.in/product/aluminum-heatsink-for-raspberry-pi/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWcZqI0XjFPMAZcna_aHTQget&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9t07keo2cKPsQ2sHNPlL4Kzc7aBJWtGBFfTRRnoh8wZtnKaVIFmkLBoCJk4QAvD_BwE |
 | INMP441 MEMS Microphone Module | Microphone | 1 | 1.99 | https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/ |
-| 64GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 15.16 | https://robu.in/product/sandisk-micro-sdxc-ush-i-64gb-class-10-memory-card/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWfI6TyQoqFIKWHQ3CsAKn3xx&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9nRaFNv8kv4mhC7sfA0QjLIg37ZslTY7L2rg-O2y2Mosr0BnKcYjAxoC4NIQAvD_BwE |
-| Raspberry Pi Zero | MCU | 1 | 18.80 | https://robu.in/product/raspberry-pi-zero-wireless-wh-pre-soldered-header/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWeEptP5f_L5n8AUY4wub-jWk&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9hsO1CfMZd7cHk8eWEVt7jpcR2A |
-| Raspberry Pi Camera Module 3 | Camera | 1 | 32.31 | https://robu.in/product/raspberry-pi-camera-module-3/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWeEptP5f_L5n8AUY4wub-jWk&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9mtpPPz7mnwDt1k8iu4PUEfTk90kvsR-zewei9DAk0jVvRrrsz_RShoCa8MQAvD_BwE |
+| 16GB MicroSD Card | Memory disk for Raspi (MCU) | 1 | 6.36| https://www.amazon.in/gp/product/B0GVJZ56K5/ref=ewc_pr_img_1?smid=AJ6SIZC8YQDZX&psc=1 |
+| Raspberry Pi Zero | MCU | 1 | 22.45 | https://robu.in/product/raspberry-pi-zero-2-w-with-header |
+| Raspberry Pi Camera Module 1.3 | Camera | 1 | 3.62 | https://robu.in/product/5mp-raspberry-pi-camera-module-w-hbv-ffc-cable?gclid=CjwKCAjwqazPBhALEiwAOuXqdIzl4dLuipezvb4f_adhpGrR0ODHmKrqNEJk8t6RmZvgmvLRcBY31hoCcpEQAvD_BwE&gbraid=0AAAAADvLFWfTuMASwQi7cJGyTOFSVa2hs&gad_source=1&gad_campaignid=17413441824 |
 | Spring | 1 | for stand | 0.17  | https://robu.in/product/diy-kossel-delta-rostock-push-rod-spring-pack-of-2/ |
-###  Total Cost: **$82.34**
+| wires and misc | 1 | 2.5 | |
+###  Total Cost: **$50**
