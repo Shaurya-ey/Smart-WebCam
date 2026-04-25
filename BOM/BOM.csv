@@ -1,0 +1,17 @@
+Item,Description,Quantity,Total Price (USD),URL
+TRRS to TRS splitter,for mic,2,2.15,https://www.amazon.in/gp/product/B08GCZQT7D/ref=ox_sc_act_title_1?smid=A1WYWER0W24N8S&th=1
+Mic,for audio input,1,2.21,https://www.amazon.in/GWINGS-Microphone-Interviews-Compatibility-Smartphones/dp/B0GD2J1PQR/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764%3Aamzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&crid=1N2CLQORCCUTE&cv_ct_cx=wire%2Bmic&keywords=wire%2Bmic&pd_rd_i=B0GD2J1PQR&pd_rd_r=f3f9a633-aa48-4a49-b863-7474a3711b82&pd_rd_w=jLIB3&pd_rd_wg=RTxYd&pf_rd_p=7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&pf_rd_r=VK27QJMY2WY1NZKY25GW&qid=1775796535&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=wiremic%2Caps%2C523&sr=1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=AD4x5wIcdW&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1
+Sound card,For audio output,1,1.14,https://robu.in/product/5-1-channel-usb-sound-card-for-raspberry-pi-and-computers/?gad_source=1&gad_campaignid=17416544847&gbraid=0AAAAADvLFWcaLEZ4BZxpNYTkApkTJ5lyC&gclid=CjwKCAjwnN3OBhA8EiwAfpTYehFyYkU7k9K_lXiWQS9rTXVuvbpnqzWhANsM9SaFnsCLTzoudtmhfhoCQh8QAvD_BwE#
+OTG Cable,connecting sound card and raspi usb port,1,0.9,https://robu.in/product/raspberry-pi-official-micro-usb-b-male-to-usb-a-female-adapter/?gad_source=1&gad_campaignid=19974686076&gbraid=0AAAAADvLFWclaudwu_pQwdub36csqIhwJ&gclid=CjwKCAjwnN3OBhA8EiwAfpTYehPJNi8-d6U0nbLRpdmAPpEEAtipRpUZ3efJJcSvzETvX5xz-H3hqRoCWzoQAvD_BwE
+5V 3A Power Supply,For powering raspi,1,2.53,https://robu.in/product/orange-5v-3a-power-supply-adapter-charger-with-micro-usb-plug/
+CAD Models,Casings + Stands,1,2,printing legion
+0.5W 28mm 8Ω Trumpet Speaker,Speaker,1,0.3,https://robu.in/product/0-5w-8ohm-trumpet-speaker-diameter-28mm/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWdwdvSUFSJIl7gt4S3iz58C-&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3hejN1-d4zu4dOttRHCKA_VgE4x6-21bOFee4rh_wh22uVPcHH1gvgD8aAm9qEALw_wcB
+PAM8403,Audio Amplifier,1,0.66,https://robu.in/product/smartelex-pam8403-stereo-mini-class-d-audio-amplifier/?gad_source=1&gad_campaignid=18585959909&gbraid=0AAAAADvLFWf9poBXKnJ1WvIqZjHOJnVNZ&gclid=Cj0KCQjwsdnNBhC4ARIsAA_3heiZ63SWzzW7lcTJvHsz-yPUT-VRUdOtDFIUNyQFpS9vECSsSzwICY0aAmqrEALw_wcB
+Heatsink,Heatsink for raspberry pi zero,1,0.19,https://robu.in/product/aluminum-heatsink-for-raspberry-pi/?gad_source=1&gad_campaignid=21296336107&gbraid=0AAAAADvLFWcZqI0XjFPMAZcna_aHTQget&gclid=CjwKCAjwpcTNBhA5EiwAdO1S9t07keo2cKPsQ2sHNPlL4Kzc7aBJWtGBFfTRRnoh8wZtnKaVIFmkLBoCJk4QAvD_BwE
+INMP441 MEMS Microphone Module,Microphone,1,1.99,https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/
+16GB MicroSD Card,Memory disk for Raspi(MCU),1,6.36,https://www.amazon.in/gp/product/B0GVJZ56K5/ref=ewc_pr_img_1?smid=AJ6SIZC8YQDZX&psc=1
+Raspberry Pi Zero,MCU,1,22.45,https://robu.in/product/raspberry-pi-zero-2-w-with-header
+Raspberry Pi Camera Module 1.3,Camera,1,3.62,https://robu.in/product/5mp-raspberry-pi-camera-module-w-hbv-ffc-cable?gclid=CjwKCAjwqazPBhALEiwAOuXqdIzl4dLuipezvb4f_adhpGrR0ODHmKrqNEJk8t6RmZvgmvLRcBY31hoCcpEQAvD_BwE&gbraid=0AAAAADvLFWfTuMASwQi7cJGyTOFSVa2hs&gad_source=1&gad_campaignid=17413441824
+Spring,,1,0.17,https://robu.in/product/diy-kossel-delta-rostock-push-rod-spring-pack-of-2/
+wires and misc,,1,2.5,
+,,Total Cost:,$50,
